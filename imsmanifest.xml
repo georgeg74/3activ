@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">2 Activ v1.2</langstring>
+          <langstring xml:lang="x-none">2 Activ v1.1.1</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="2_Activ_v1.2_ORG">
-    <organization identifier="2_Activ_v1.2_ORG">
-      <title>2 Activ v1.2</title>
+  <organizations default="2_Activ_v1.1.1_ORG">
+    <organization identifier="2_Activ_v1.1.1_ORG">
+      <title>2 Activ v1.1.1</title>
       <item identifier="Video_εισαγωγής_SCO" isvisible="true" identifierref="__6JedCSDDmd4_course_id_RES">
-        <title>2 Activ v1.2</title>
+        <title>2 Activ v1.1.1</title>
       </item>
     </organization>
   </organizations>
@@ -76,10 +76,10 @@
       <file href="mobile/6aMg0D1wNmT_80_DX2112_DY2112_CX1247_CY870.png" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
-      <file href="mobile/Slide6ddkJpjyI65.jpg" />
+      <file href="mobile/Slide68IFa43r1Wb.jpg" />
       <file href="mobile/Shape63E7z2QunLK.png" />
       <file href="mobile/txt__default_6ZOIrlCUCxw.png" />
-      <file href="mobile/Slide5nAqEOTchAE.jpg" />
+      <file href="mobile/Slide5tvHRBrFE7I.jpg" />
       <file href="mobile/Shape5ZUC3YXAXjD.png" />
       <file href="mobile/txt__default_6ONDIyfh58f.png" />
       <file href="mobile/Slide5iFM2hGaZk5.jpg" />
